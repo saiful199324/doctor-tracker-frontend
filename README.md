@@ -16,7 +16,7 @@ This repository is the **Next.js 15 frontend**. It talks to the **[Express + Mon
 
 ## Links
 
-| | |
+| What | Link |
 | --- | --- |
 | **Live website** | **https://doctor-tracker-frontend-two.vercel.app** |
 | **Live backend API** | https://doctor-tracker-api-4x90.onrender.com |
