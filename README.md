@@ -18,8 +18,8 @@ This repository is the **Next.js 15 frontend**. It talks to the **[Express + Mon
 
 | | |
 | --- | --- |
-| **Live website** | **{{WEB_URL}}** |
-| **Live backend API** | {{API_URL}} |
+| **Live website** | **https://doctor-tracker-frontend-two.vercel.app** |
+| **Live backend API** | https://doctor-tracker-api-4x90.onrender.com |
 | **Backend repository** | https://github.com/saiful199324/doctor-tracker-backend |
 | **Admin** (full access) | `admin@doctortracker.dev` / `Admin@12345` |
 | **Staff** (no deletes) | `staff@doctortracker.dev` / `Staff@12345` |
